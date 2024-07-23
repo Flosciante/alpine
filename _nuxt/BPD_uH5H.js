@@ -1,0 +1,1 @@
+import{l as t,c as n,e as o,a5 as c}from"./BDiB4Hsv.js";const r={};function a(e,s){return n(),o("td",null,[c(e.$slots,"default",{},void 0,!0)])}const d=t(r,[["render",a],["__scopeId","data-v-573f4202"]]);export{d as default};
