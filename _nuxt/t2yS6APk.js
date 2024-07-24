@@ -1,1 +1,0 @@
-import{l as t,c as o,e as s,a5 as a}from"./BDiB4Hsv.js";const c={},r={class:"preview-layout"};function n(e,d){return o(),s("div",r,[a(e.$slots,"default",{},void 0,!0)])}const l=t(c,[["render",n],["__scopeId","data-v-f900b5ce"]]);export{l as default};
