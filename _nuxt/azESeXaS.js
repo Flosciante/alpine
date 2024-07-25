@@ -1,0 +1,1 @@
+import{l as r,c as t,e as n,a5 as o}from"./CzhoUKPO.js";const s={};function a(e,c){return t(),n("em",null,[o(e.$slots,"default",{},void 0,!0)])}const l=r(s,[["render",a],["__scopeId","data-v-612d9e8b"]]);export{l as default};
